@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="students.Check">
+      <class name="canada_Batch_Aug31_2023.Video3">
         <methods>
-          <include name="loginTest"/>
+          <include name="verifyStaleElementReeferenceException"/>
         </methods>
-      </class> <!-- students.Check -->
+      </class> <!-- canada_Batch_Aug31_2023.Video3 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
