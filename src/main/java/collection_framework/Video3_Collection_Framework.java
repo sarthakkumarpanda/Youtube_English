@@ -11,11 +11,14 @@ public class Video3_Collection_Framework {
 	//Collection is a single entity or an object in which we can store multiple data
 	//framework - represents the library
 	//Collection framework - it is set of pre-defined Classes, Interfaces which is used to store multiple data
+	//Refer to the images Collection1, Collection2, Collection3.png
+	
+	
 	//it contains 2 main packages - java.util.Collection, - we can store data directly 
 	//                              java.util.Map         - we store data in key value pair
 	//Please refer to the image Collection_Framework_part1.png and Collection_Framework_part2.png
 	
-	////Refer to the images Collection1, Collection2, Collection3.png
+	
 	
 
 	public static void main(String[] args) {
